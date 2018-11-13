@@ -1,0 +1,69 @@
+﻿.Main-Para{
+    opacity:.6;
+}
+
+.items{
+    list-style-type: none;
+}
+#itemsID{
+    color: #640db9;
+}
+
+ul{
+    font-size:16px;
+}
+
+#HID{
+    font-style:italic;
+    font-size:32px;
+    font-weight:900;
+}
+
+/*.jumbotron{
+    height:auto;
+    width:auto;
+    padding:0;
+    background-image: url(https://cdn.shopify.com/s/files/1/0131/9332/products/c24decb20d50a9bdaa08e5b6be0fdd2a266492a2_grande.jpeg?v=1515394822);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size:contain;
+}*/
+#bp2{
+    background-image:url(https://cdn.shopify.com/s/files/1/0131/9332/products/c24decb20d50a9bdaa08e5b6be0fdd2a266492a2_grande.jpeg?v=1515394822);
+    background-position-x:right;
+    background-size: contain;
+    background-repeat:no-repeat;
+    border:double;
+}
+
+.body-content{
+    padding:20px;
+    background: #cacaca;
+    color: black;
+    border:double;
+    margin-bottom:100px;
+}
+#home{
+    background-color:#25343f;
+    color:#006400;
+}
+
+#homeJumbo{
+    color:#00cf00;
+    background-color:black;
+    background-image:url(https://avatars0.githubusercontent.com/u/12516101?s=460&v=4);
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position-x:right;
+    border:double;
+}
+
+#homeNav{
+    background:#fac75d;
+}
+
+.TOPS{
+    text-align:center;
+    border:solid;
+    padding:20px;
+}
