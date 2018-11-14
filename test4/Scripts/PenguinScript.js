@@ -15,8 +15,9 @@ pButton
 
 function PENGUINIFY()
 {
-    document.title = "POV!";
     document.getElementById("pH1").innerHTML = "Unleash The Pebbles.";
+    document.getElementById("pH1").style.display = "none";
+    document.title = "POV!";
     document.getElementById("pP").innerHTML = "Penguin This, Penguin That.";
     $('#bp2').css('background-image', 'url(https://images.unsplash.com/photo-1508967289497-b9c85158e02d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=956a875807ae3d1b502cbd6586c7065a&auto=format&fit=crop&w=1990&q=80)');
     document.getElementById("itemsID").innerHTML = "\"Now where there south side of earth wassup, wassup";
