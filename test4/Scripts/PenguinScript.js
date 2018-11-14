@@ -1,13 +1,13 @@
 ﻿/*
-pTitle
-pH1
-pP
-itemsID
-list1
-list2
-list3
-list4
-HID         1
+//pTitle
+//pH1
+//pP
+//itemsID
+//list1
+//list2
+//list3
+//list4
+//HID         1
 pLi1
 pLi2
 pButton
@@ -16,7 +16,8 @@ pButton
 function PENGUINIFY()
 {
     document.getElementById("pH1").innerHTML = "Unleash The Pebbles.";
-    document.getElementById("pH1").style.display = "none";
+    $("#pH1").fadeOut(1);
+    $("#pH1").fadeIn(5000);
     document.title = "POV!";
     document.getElementById("pP").innerHTML = "Penguin This, Penguin That.";
     $('#bp2').css('background-image', 'url(https://images.unsplash.com/photo-1508967289497-b9c85158e02d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=956a875807ae3d1b502cbd6586c7065a&auto=format&fit=crop&w=1990&q=80)');
