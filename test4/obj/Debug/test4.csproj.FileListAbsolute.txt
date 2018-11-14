@@ -21,3 +21,4 @@ C:\Users\jowiesny\Documents\Visual Studio 2015\Projects\test4\test4\bin\System.W
 C:\Users\jowiesny\Documents\Visual Studio 2015\Projects\test4\test4\bin\Antlr3.Runtime.pdb
 C:\Users\jowiesny\Documents\Visual Studio 2015\Projects\test4\test4\obj\Debug\test4.dll
 C:\Users\jowiesny\Documents\Visual Studio 2015\Projects\test4\test4\obj\Debug\test4.pdb
+C:\Users\jowiesny\Documents\Visual Studio 2015\Projects\test4\test4\obj\Debug\test4.csprojResolveAssemblyReference.cache
